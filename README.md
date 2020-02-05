@@ -4,7 +4,7 @@ To develop a business case for [meetup.com](https://www.meetup.com/) platform by
 
 Here is the link to the dataset used for this project - https://www.kaggle.com/sirpunch/meetups-data-from-meetupcom
 
-![alt text](https://github.com/snithin13/Meetup-Recommendation-System/blob/master/Images/Build-a-Recommendation-Engine-With-Collaborative-Filtering.png)
+![alt text](https://github.com/KaranPalsani/Meetup.com-recommendation-engine/blob/master/Images/Build-a-Recommendation-Engine-With-Collaborative-Filtering.png)
 
 ## Project Objectives:
 
@@ -31,7 +31,7 @@ Here is the link to the dataset used for this project - https://www.kaggle.com/s
 
 **1. Top growing categories (by # of groups)**
 
-![alt text](https://github.com/snithin13/Meetup-Recommendation-System/blob/master/Images/cat_trend.png)
+![alt text](https://github.com/KaranPalsani/Meetup.com-recommendation-engine/blob/master/Images/cat_trend.png)
 
 * Inference: Career/Business, Tech, and Socialization are the three most popular and fast growing categories based on the 3 cities data.
 
@@ -39,9 +39,9 @@ Here is the link to the dataset used for this project - https://www.kaggle.com/s
 
 **2. Popular groups in New York and in San Francisco (by # of memebers)**
 
-![alt text](https://github.com/snithin13/Meetup-Recommendation-System/blob/master/Images/NK_group_rank.png)
+![alt text](https://github.com/KaranPalsani/Meetup.com-recommendation-engine/blob/master/Images/NK_group_rank.png)
 
-![alt text](https://github.com/snithin13/Meetup-Recommendation-System/blob/master/Images/SF_group_rank.png)
+![alt text](https://github.com/KaranPalsani/Meetup.com-recommendation-engine/blob/master/Images/SF_group_rank.png)
 
 * Suggestion: Now that we have identified the popular groups in New York and San Francisco from the above analysis, we need to attract top relevant company sponsorship into popular groups in exchange for better talent hunting opportunities and crowd connect. This can be monetized by meetup.com as a percentage of the sponsorship from the group.
 
@@ -65,10 +65,10 @@ factors = 20, regularization = .01, iterations = 20
 iv) Calls the recommend function after checking the city of that the user inputed and display the top 10 recommendations.The results are shown below:
 
 Existing Groups
-![alt text](https://github.com/snithin13/Meetup-Recommendation-System/blob/master/Images/recomm%20grps.png)
+![alt text](https://github.com/KaranPalsani/Meetup.com-recommendation-engine/blob/master/Images/existing%20grps.png)
 
 Recommended Groups
-![alt text](https://github.com/snithin13/Meetup-Recommendation-System/blob/master/Images/recomm%20grps.png)
+![alt text](https://github.com/KaranPalsani/Meetup.com-recommendation-engine/blob/master/Images/recomm%20grps.png)
 
 * For New Users:
 
