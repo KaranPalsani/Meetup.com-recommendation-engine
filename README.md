@@ -78,5 +78,3 @@ i) Recommend 10 groups based on the top 3 category choices the user has selected
 
 ii) Use KNN model to recommend similar categories to the user from the ones that he already has selected at the time of registration.
 
-## Code:
-https://github.com/snithin13/Meetup-Recommendation-System/blob/master/Recommendation%20Engine%20for%20Meetup.ipynb
